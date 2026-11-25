@@ -70,7 +70,7 @@ Break-related Combine tracking measures, as we defined them, do not predict rook
 
 ## Reproducing the analysis
 
-The full analysis is in a public Kaggle notebook: https://www.kaggle.com/code/mohammadrahma/notebook8c669a8336
+The full analysis is in a public Kaggle notebook: https://www.kaggle.com/code/mohammadrahma/combine-break-measures-reproducible-analysis
 
 
 Place the Kaggle files in `data/`, then run `python analysis/slant_analysis.py data` for the slant results, `python analysis/db_analysis.py data` for the defensive back results and `python analysis/dagger_analysis.py data` for the dagger lead. Full numbers, including the withdrawn break-definition check, are in `FINDINGS.md`.
