@@ -1,0 +1,5 @@
+test,min_targets,prospects,cut_angle_deg,speed_retained,pre_speed
+Slant routes only,5,22,rho=0.04 (p=0.85),rho=-0.03 (p=0.89),rho=-0.14 (p=0.53)
+All routes,3,73,rho=-0.02 (p=0.87),rho=0.12 (p=0.33),rho=-0.01 (p=0.92)
+All routes,5,66,rho=-0.04 (p=0.77),rho=0.10 (p=0.43),rho=-0.02 (p=0.85)
+Short routes,3,64,rho=-0.01 (p=0.93),rho=0.14 (p=0.26),rho=-0.18 (p=0.16)
